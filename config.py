@@ -1,7 +1,7 @@
 import os
 
-TOKEN = '5507237803:AAF6GdYatEaDR1LWpQNRLW_R2w9K7kWjXTI'
-ADMIN_ID = [322420305]
+TOKEN = ''
+ADMIN_ID = []
 
 path_photo = os.path.join(os.getcwd(), 'photo')
 
